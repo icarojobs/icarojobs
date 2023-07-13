@@ -24,9 +24,9 @@ Fique a vontade para entrar em contato. Tenho certeza absoluta que vou conseguir
 
 ## Potencializando seus negócios com soluções tecnológicas inovadoras
 
-Olá! Meu nome é Ícaro William (conhecido na net como Tio Jobs) e sou um profissional de Tecnologia da Informação com mais de 25 anos de experiência no setor. Tenho uma graduação em Análise e Desenvolvimento de Sistemas, além de três formações técnicas: Técnico em Informática, Técnico em Telecomunicações e ACMT (Apple Certified Macintosh Technician). Minha paixão é oferecer soluções eficazes para empresas de pequeno e médio porte.
+Olá! Meu nome é **Icaro William** (conhecido na net como `Tio Jobs`) e sou um profissional de Tecnologia da Informação com mais de **25 anos de experiência** no setor. Tenho uma graduação em Análise e Desenvolvimento de Sistemas, além de três formações técnicas: Técnico em Informática, Técnico em Telecomunicações e ACMT (Apple Certified Macintosh Technician). Minha paixão é oferecer soluções eficazes para empresas de pequeno e médio porte.
 
-A MOB2YOU TECNOLOGIA LTDA é a empresa por trás de todos os serviços que ofereço. Nossa missão é potencializar os negócios dos nossos clientes, fornecendo soluções personalizadas e inovadoras em Tecnologia da Informação. Nossa expertise abrange:
+A `MOB2YOU TECNOLOGIA LTDA` é a empresa por trás de todos os serviços que ofereço. Nossa missão é potencializar os negócios dos nossos clientes, fornecendo soluções personalizadas e inovadoras em Tecnologia da Informação. Nossa expertise abrange:
 
 - **Desenvolvimento de Sites**: Criamos sites profissionais e responsivos, adaptados às necessidades exclusivas de cada cliente, garantindo uma presença online impactante.
 
@@ -44,7 +44,7 @@ A MOB2YOU TECNOLOGIA LTDA é a empresa por trás de todos os serviços que ofere
 <div>
   <img src="https://mob2you.com.br/sistema/public/img/youtube.png" align="center" alt="Capa Youtube Tio Jobs" />
 </div>
-
+<br>
 Para facilitar ainda mais a nossa comunicação, deixo à sua disposição meu número de WhatsApp: <a href="https://wa.link/gc15bg" alt="Whatsapp do Tio">(16) 99758-3254</a>. Fique à vontade para entrar em contato comigo a qualquer momento.
 
 Convido você a explorar os links abaixo para conhecer mais sobre nossas empresas e plataformas:
@@ -55,14 +55,12 @@ Convido você a explorar os links abaixo para conhecer mais sobre nossas empresa
 - [ChatIntegrado](https://chatintegrado.com.br)
 - [Gestor de Ativos](https://gestordeativos.com.br)
 
-Caso queira conhecer meu know-how completo, <a href="https://mob2you.com.br/sistema/public/files/curriculo.pdf" alt="Tio Jobs Currículo">clique aqui</a> e você encontrará meu currículo atualizado, detalhando ainda mais minhas habilidades e conhecimentos.
+Caso queira conhecer **meu know-how completo**, <a href="https://mob2you.com.br/sistema/public/files/curriculo.pdf" alt="Tio Jobs Currículo">clique aqui</a> e você encontrará meu currículo atualizado, detalhando ainda mais minhas habilidades e conhecimentos.
 
-Acredito sinceramente que posso contribuir significativamente para o sucesso de seus negócios por meio de soluções tecnológicas inteligentes e inovadoras. Estou ansioso para discutir como podemos colaborar e encontrar a melhor abordagem para atender às suas necessidades específicas.
+Acredito sinceramente que **posso contribuir significativamente para o sucesso de seus negócios** por meio de s**oluções tecnológicas** inteligentes e inovadoras. Estou ansioso para discutir como podemos colaborar e encontrar a melhor abordagem para atender às suas necessidades específicas.
 
 Agradeço desde já pela atenção e espero ter a oportunidade de trabalhar com você.
-
-Atenciosamente,
-
-Ícaro William <br>
+<br><br>
+**Tio Jobs** <br>
 Tecnologia da Informação | MOB2YOU TECNOLOGIA LTDA <br>
-WhatsApp: <a href="https://wa.link/gc15bg" alt="Whatsapp do Tio">(16) 99758-3254</a>
+**WhatsApp:** <a href="https://wa.link/gc15bg" alt="Whatsapp do Tio">(16) 99758-3254</a>
