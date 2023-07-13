@@ -40,7 +40,10 @@ A MOB2YOU TECNOLOGIA LTDA é a empresa por trás de todos os serviços que ofere
 
 - **Whatsapp Marketing pela plataforma ChatIntegrado**: Aproveitamos o poder do WhatsApp para ajudar sua empresa a alcançar e engajar seus clientes de forma personalizada, por meio de campanhas eficientes e automatizadas.
 
-Além disso, mantenho um canal no YouTube chamado "Tio Jobs", onde compartilho meu conhecimento e auxilio mais de 2500 pessoas na área de Desenvolvimento Web. Você pode conferir meu canal <a href="https://www.youtube.com/@tiojobs" alt="Canal do Tio Jobs">aqui!</a>.
+### Além disso, mantenho um canal no YouTube chamado "Tio Jobs", onde compartilho meu conhecimento e auxilio mais de 2500 pessoas na área de Desenvolvimento Web. Você pode conferir meu canal <a href="https://www.youtube.com/@tiojobs" alt="Canal do Tio Jobs">aqui!</a>.
+<div>
+  <img src="https://mob2you.com.br/sistema/public/img/youtube.png" align="center" alt="Capa Youtube Tio Jobs" />
+</div>
 
 Para facilitar ainda mais a nossa comunicação, deixo à sua disposição meu número de WhatsApp: <a href="https://wa.link/gc15bg" alt="Whatsapp do Tio">(16) 99758-3254</a>. Fique à vontade para entrar em contato comigo a qualquer momento.
 
