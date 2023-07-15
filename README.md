@@ -49,6 +49,7 @@ Para facilitar ainda mais a nossa comunicação, deixo à sua disposição meu n
 
 Convido você a explorar os links abaixo para conhecer mais sobre nossas empresas e plataformas:
 
+- [MEU EBOOK PARA NOVATOS NA PROGRAMAÇÃO](https://bit.ly/ebook-construa-seu-imperio-dev)
 - [MOB2YOU TECNOLOGIA LTDA](https://www.mob2you.com.br)
 - [Cursos de Capacitação pela plataforma Jobs Treinamentos](https://cursos.jobstreinamentos.com.br)
 - [TechLib](https://techlib.com.br)
