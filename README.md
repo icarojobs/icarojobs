@@ -22,6 +22,9 @@ Fique a vontade para entrar em contato. Tenho certeza absoluta que vou conseguir
   <a href="https://www.linkedin.com/in/tio-jobs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+## Capacitação para todos os níveis
+Estamos com matrículas abertas na `Jobs Treinamentos`! Acesse a plataforma agora em [http://jobstreinamentos.com.br](http://jobstreinamentos.com.br), selecione o seu plano e faça parte do conjunto de programadores mais desejados do mercado de trabalho.
+
 ## Potencializando seus negócios com soluções tecnológicas inovadoras
 
 Olá! Meu nome é **Icaro William** (conhecido na net como `Tio Jobs`) e sou um profissional de Tecnologia da Informação com mais de **25 anos de experiência** no setor. Tenho uma graduação em Análise e Desenvolvimento de Sistemas, além de três formações técnicas: Técnico em Informática, Técnico em Telecomunicações e ACMT (Apple Certified Macintosh Technician). Minha paixão é oferecer soluções eficazes para empresas de pequeno e médio porte.
@@ -51,7 +54,7 @@ Convido você a explorar os links abaixo para conhecer mais sobre nossas empresa
 
 - [MEU EBOOK PARA NOVATOS NA PROGRAMAÇÃO](https://bit.ly/ebook-construa-seu-imperio-dev)
 - [MOB2YOU TECNOLOGIA LTDA](https://www.mob2you.com.br)
-- [Cursos de Capacitação pela plataforma Jobs Treinamentos](https://cursos.jobstreinamentos.com.br)
+- [Cursos de Capacitação pela plataforma Jobs Treinamentos](https://jobstreinamentos.com.br)
 - [TechLib](https://techlib.com.br)
 - [ChatIntegrado](https://chatintegrado.com.br)
 - [Gestor de Ativos](https://gestordeativos.com.br)
