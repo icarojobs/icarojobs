@@ -35,13 +35,9 @@ A `MOB2YOU TECNOLOGIA LTDA` é a empresa por trás de todos os serviços que ofe
 
 - **Desenvolvimento de Sistemas**: Desenvolvemos sistemas customizados e eficientes que automatizam processos, aumentando a produtividade e otimizando a operação da sua empresa.
 
-- **Desenvolvimento de Aplicativos para Celular**: Criamos aplicativos móveis intuitivos e funcionais, permitindo que sua empresa esteja presente nos dispositivos mais utilizados pelos seus clientes.
-
-- **Gestão de TI para empresas de pequeno e médio porte**: Oferecemos serviços de gerenciamento completo da infraestrutura tecnológica, garantindo a segurança, disponibilidade e eficiência dos seus sistemas.
-
 - **Cursos de Capacitação pela plataforma Jobs Treinamentos**: Temos uma plataforma online de treinamentos, com cursos atualizados e práticos para capacitar sua equipe em diversas áreas da Tecnologia da Informação.
 
-- **Whatsapp Marketing pela plataforma ChatIntegrado**: Aproveitamos o poder do WhatsApp para ajudar sua empresa a alcançar e engajar seus clientes de forma personalizada, por meio de campanhas eficientes e automatizadas.
+- **Whatsapp Marketing**: Aproveitamos todo o poder da `API OFICIAL DO WHATSAPP` para ajudar sua empresa a alcançar e engajar seus clientes de forma personalizada, por meio de campanhas eficientes e automatizadas.
 
 ### Além disso, mantenho um canal no YouTube chamado "Tio Jobs", onde compartilho meu conhecimento e auxilio mais de 3600 pessoas na área de Desenvolvimento Web. Confira no Youtube: <a href="https://www.youtube.com/@tiojobs" alt="Canal do Tio Jobs">Tio Jobs</a>.
 <div>
