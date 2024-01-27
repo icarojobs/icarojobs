@@ -66,5 +66,5 @@ Acredito sinceramente que **posso contribuir significativamente para o sucesso d
 Agradeço desde já pela atenção e espero ter a oportunidade de trabalhar com você.
 <br><br>
 **Tio Jobs** <br>
-Tecnologia da Informação | MOB2YOU TECNOLOGIA LTDA <br>
+Artesão Web | Youtuber | Empreendedor <br>
 **WhatsApp:** <a href="https://wa.link/gc15bg" alt="Whatsapp do Tio">(16) 99758-3254</a>
