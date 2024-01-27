@@ -45,7 +45,7 @@ A `MOB2YOU TECNOLOGIA LTDA` é a empresa por trás de todos os serviços que ofe
 
 ### Além disso, mantenho um canal no YouTube chamado "Tio Jobs", onde compartilho meu conhecimento e auxilio mais de 3600 pessoas na área de Desenvolvimento Web. Confira no Youtube: <a href="https://www.youtube.com/@tiojobs" alt="Canal do Tio Jobs">Tio Jobs</a>.
 <div>
-  
+  <img src="https://mob2you.com.br/sistema/public/img/youtube2.png" align="center" alt="Capa Youtube Tio Jobs" />
 </div>
 <br>
 Para facilitar ainda mais a nossa comunicação, deixo à sua disposição meu número de WhatsApp: <a href="https://wa.link/gc15bg" alt="Whatsapp do Tio">(16) 99758-3254</a>. Fique à vontade para entrar em contato comigo a qualquer momento.
