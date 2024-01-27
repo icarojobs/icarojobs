@@ -51,7 +51,6 @@ Convido você a explorar os links abaixo para conhecer mais sobre nossas empresa
 - [MEU EBOOK PARA NOVATOS NA PROGRAMAÇÃO](https://bit.ly/ebook-construa-seu-imperio-dev)
 - [MOB2YOU TECNOLOGIA LTDA](https://www.mob2you.com.br)
 - [Cursos de Capacitação pela plataforma Jobs Treinamentos](https://jobstreinamentos.com.br)
-- [TechLib](https://techlib.com.br)
 - [ChatIntegrado](https://chatintegrado.com.br)
 - [Gestor de Ativos](https://gestordeativos.com.br)
 
