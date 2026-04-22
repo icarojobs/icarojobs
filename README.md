@@ -1,6 +1,6 @@
-# Hi, I'm Icaro William (Tio Jobs) 👋
+# Hi, I'm Icaro (Tio Jobs) William
 
-Senior Software Engineer & Tech Lead with strong experience in backend development, cloud infrastructure, and distributed systems.
+### Senior Software Engineer | SaaS & AI Systems | Geospatial & Cloud Architect
 
 ## 🚀 What I work with
 - Backend: PHP, Python, Go (Laravel, FastAPI, Chi)
