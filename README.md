@@ -1,4 +1,4 @@
-# Icaro William Gregorio da Silva
+# Icaro William
 
 **Senior Software Engineer | PHP · Laravel · Python · FastAPI · Rust**
 
