@@ -2,7 +2,7 @@
 
 **Senior Software Engineer | PHP · Laravel · Python · FastAPI · Rust**
 
-Backend engineer with 17+ years building SaaS platforms, APIs and high-throughput systems in fintech, AgTech and EdTech. Open to remote opportunities.
+Backend engineer with 17+ years building SaaS platforms, APIs and high-throughput systems in fintech, AgTech and EdTech. Open to new opportunities.
 
 [LinkedIn](https://www.linkedin.com/in/tio-jobs) · [YouTube](https://www.youtube.com/@tiojobs) · icarojobsoficial@gmail.com
 
@@ -48,7 +48,7 @@ Portuguese (native) · English (B2)
 
 **Engenheiro de Software Sênior | PHP · Laravel · Python · FastAPI · Rust**
 
-Engenheiro backend com mais de 17 anos construindo plataformas SaaS, APIs e sistemas de alto volume em fintech, AgTech e EdTech. Aberto a oportunidades remotas.
+Engenheiro backend com mais de 17 anos construindo plataformas SaaS, APIs e sistemas de alto volume em fintech, AgTech e EdTech. Aberto a novas oportunidades.
 
 ### Resultados
 
